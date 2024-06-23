@@ -14,4 +14,5 @@ public class CitaDTO {
     private String turno;
     private PacienteDTO paciente;
     private MedicoDTO medico;
+    //no falta nada
 }
